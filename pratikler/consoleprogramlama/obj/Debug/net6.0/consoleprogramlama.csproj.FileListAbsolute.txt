@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\bin\Debug\net6.0\consoleprogramlama.exe
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\bin\Debug\net6.0\consoleprogramlama.deps.json
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\bin\Debug\net6.0\consoleprogramlama.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\bin\Debug\net6.0\consoleprogramlama.dll
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\bin\Debug\net6.0\ref\consoleprogramlama.dll
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\bin\Debug\net6.0\consoleprogramlama.pdb
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.dll
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\ref\consoleprogramlama.dll
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.pdb
+C:\Users\HP\Desktop\pratikler\consoleprogramlama\obj\Debug\net6.0\consoleprogramlama.genruntimeconfig.cache
