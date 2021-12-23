@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.exe
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.deps.json
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.dll
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\bin\Debug\net6.0\ref\tipDonusumleri.dll
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\bin\Debug\net6.0\tipDonusumleri.pdb
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.dll
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\ref\tipDonusumleri.dll
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.pdb
+C:\Users\HP\Desktop\pratikler\tipDonusumleri\obj\Debug\net6.0\tipDonusumleri.genruntimeconfig.cache
