@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\tryCatch\bin\Debug\net6.0\tryCatch.exe
+C:\Users\HP\Desktop\pratikler\tryCatch\bin\Debug\net6.0\tryCatch.deps.json
+C:\Users\HP\Desktop\pratikler\tryCatch\bin\Debug\net6.0\tryCatch.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\tryCatch\bin\Debug\net6.0\tryCatch.dll
+C:\Users\HP\Desktop\pratikler\tryCatch\bin\Debug\net6.0\ref\tryCatch.dll
+C:\Users\HP\Desktop\pratikler\tryCatch\bin\Debug\net6.0\tryCatch.pdb
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.dll
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\ref\tryCatch.dll
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.pdb
+C:\Users\HP\Desktop\pratikler\tryCatch\obj\Debug\net6.0\tryCatch.genruntimeconfig.cache
