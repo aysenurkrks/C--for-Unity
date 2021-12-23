@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\ifElse\bin\Debug\net6.0\ifElse.exe
+C:\Users\HP\Desktop\pratikler\ifElse\bin\Debug\net6.0\ifElse.deps.json
+C:\Users\HP\Desktop\pratikler\ifElse\bin\Debug\net6.0\ifElse.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\ifElse\bin\Debug\net6.0\ifElse.dll
+C:\Users\HP\Desktop\pratikler\ifElse\bin\Debug\net6.0\ref\ifElse.dll
+C:\Users\HP\Desktop\pratikler\ifElse\bin\Debug\net6.0\ifElse.pdb
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.dll
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ref\ifElse.dll
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.pdb
+C:\Users\HP\Desktop\pratikler\ifElse\obj\Debug\net6.0\ifElse.genruntimeconfig.cache
