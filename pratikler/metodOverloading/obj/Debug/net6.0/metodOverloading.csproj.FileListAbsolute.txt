@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\metodOverloading\bin\Debug\net6.0\metodOverloading.exe
+C:\Users\HP\Desktop\pratikler\metodOverloading\bin\Debug\net6.0\metodOverloading.deps.json
+C:\Users\HP\Desktop\pratikler\metodOverloading\bin\Debug\net6.0\metodOverloading.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\metodOverloading\bin\Debug\net6.0\metodOverloading.dll
+C:\Users\HP\Desktop\pratikler\metodOverloading\bin\Debug\net6.0\ref\metodOverloading.dll
+C:\Users\HP\Desktop\pratikler\metodOverloading\bin\Debug\net6.0\metodOverloading.pdb
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.dll
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\ref\metodOverloading.dll
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.pdb
+C:\Users\HP\Desktop\pratikler\metodOverloading\obj\Debug\net6.0\metodOverloading.genruntimeconfig.cache
