@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\arraySinifi\bin\Debug\net6.0\arraySinifi.exe
+C:\Users\HP\Desktop\pratikler\arraySinifi\bin\Debug\net6.0\arraySinifi.deps.json
+C:\Users\HP\Desktop\pratikler\arraySinifi\bin\Debug\net6.0\arraySinifi.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\arraySinifi\bin\Debug\net6.0\arraySinifi.dll
+C:\Users\HP\Desktop\pratikler\arraySinifi\bin\Debug\net6.0\ref\arraySinifi.dll
+C:\Users\HP\Desktop\pratikler\arraySinifi\bin\Debug\net6.0\arraySinifi.pdb
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.dll
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\ref\arraySinifi.dll
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.pdb
+C:\Users\HP\Desktop\pratikler\arraySinifi\obj\Debug\net6.0\arraySinifi.genruntimeconfig.cache
