@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\recursiveExtension\bin\Debug\net6.0\recursiveExtension.exe
+C:\Users\HP\Desktop\pratikler\recursiveExtension\bin\Debug\net6.0\recursiveExtension.deps.json
+C:\Users\HP\Desktop\pratikler\recursiveExtension\bin\Debug\net6.0\recursiveExtension.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\recursiveExtension\bin\Debug\net6.0\recursiveExtension.dll
+C:\Users\HP\Desktop\pratikler\recursiveExtension\bin\Debug\net6.0\ref\recursiveExtension.dll
+C:\Users\HP\Desktop\pratikler\recursiveExtension\bin\Debug\net6.0\recursiveExtension.pdb
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.dll
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\ref\recursiveExtension.dll
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.pdb
+C:\Users\HP\Desktop\pratikler\recursiveExtension\obj\Debug\net6.0\recursiveExtension.genruntimeconfig.cache
