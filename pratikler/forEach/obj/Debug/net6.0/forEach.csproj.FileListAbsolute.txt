@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\forEach\bin\Debug\net6.0\forEach.exe
+C:\Users\HP\Desktop\pratikler\forEach\bin\Debug\net6.0\forEach.deps.json
+C:\Users\HP\Desktop\pratikler\forEach\bin\Debug\net6.0\forEach.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\forEach\bin\Debug\net6.0\forEach.dll
+C:\Users\HP\Desktop\pratikler\forEach\bin\Debug\net6.0\ref\forEach.dll
+C:\Users\HP\Desktop\pratikler\forEach\bin\Debug\net6.0\forEach.pdb
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.dll
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\ref\forEach.dll
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.pdb
+C:\Users\HP\Desktop\pratikler\forEach\obj\Debug\net6.0\forEach.genruntimeconfig.cache
