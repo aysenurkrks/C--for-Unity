@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\metodlar\bin\Debug\net6.0\metodlar.exe
+C:\Users\HP\Desktop\pratikler\metodlar\bin\Debug\net6.0\metodlar.deps.json
+C:\Users\HP\Desktop\pratikler\metodlar\bin\Debug\net6.0\metodlar.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\metodlar\bin\Debug\net6.0\metodlar.dll
+C:\Users\HP\Desktop\pratikler\metodlar\bin\Debug\net6.0\ref\metodlar.dll
+C:\Users\HP\Desktop\pratikler\metodlar\bin\Debug\net6.0\metodlar.pdb
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.dll
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\ref\metodlar.dll
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.pdb
+C:\Users\HP\Desktop\pratikler\metodlar\obj\Debug\net6.0\metodlar.genruntimeconfig.cache
