@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\genericList\bin\Debug\net6.0\genericList.exe
+C:\Users\HP\Desktop\pratikler\genericList\bin\Debug\net6.0\genericList.deps.json
+C:\Users\HP\Desktop\pratikler\genericList\bin\Debug\net6.0\genericList.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\genericList\bin\Debug\net6.0\genericList.dll
+C:\Users\HP\Desktop\pratikler\genericList\bin\Debug\net6.0\ref\genericList.dll
+C:\Users\HP\Desktop\pratikler\genericList\bin\Debug\net6.0\genericList.pdb
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.dll
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\ref\genericList.dll
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.pdb
+C:\Users\HP\Desktop\pratikler\genericList\obj\Debug\net6.0\genericList.genruntimeconfig.cache
