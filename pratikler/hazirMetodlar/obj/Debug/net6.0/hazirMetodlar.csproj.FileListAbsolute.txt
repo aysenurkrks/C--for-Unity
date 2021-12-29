@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\bin\Debug\net6.0\hazirMetodlar.exe
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\bin\Debug\net6.0\hazirMetodlar.deps.json
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\bin\Debug\net6.0\hazirMetodlar.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\bin\Debug\net6.0\hazirMetodlar.dll
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\bin\Debug\net6.0\ref\hazirMetodlar.dll
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\bin\Debug\net6.0\hazirMetodlar.pdb
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.dll
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\ref\hazirMetodlar.dll
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.pdb
+C:\Users\HP\Desktop\pratikler\hazirMetodlar\obj\Debug\net6.0\hazirMetodlar.genruntimeconfig.cache
