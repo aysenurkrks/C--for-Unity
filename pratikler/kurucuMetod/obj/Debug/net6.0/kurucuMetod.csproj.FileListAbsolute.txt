@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\kurucuMetod\bin\Debug\net6.0\kurucuMetod.exe
+C:\Users\HP\Desktop\pratikler\kurucuMetod\bin\Debug\net6.0\kurucuMetod.deps.json
+C:\Users\HP\Desktop\pratikler\kurucuMetod\bin\Debug\net6.0\kurucuMetod.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\kurucuMetod\bin\Debug\net6.0\kurucuMetod.dll
+C:\Users\HP\Desktop\pratikler\kurucuMetod\bin\Debug\net6.0\ref\kurucuMetod.dll
+C:\Users\HP\Desktop\pratikler\kurucuMetod\bin\Debug\net6.0\kurucuMetod.pdb
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.dll
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\ref\kurucuMetod.dll
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.pdb
+C:\Users\HP\Desktop\pratikler\kurucuMetod\obj\Debug\net6.0\kurucuMetod.genruntimeconfig.cache
