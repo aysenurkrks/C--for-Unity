@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.exe
+C:\Users\HP\Desktop\pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.deps.json
+C:\Users\HP\Desktop\pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.dll
+C:\Users\HP\Desktop\pratikler\sinifKavrami\bin\Debug\net6.0\ref\sinifKavrami.dll
+C:\Users\HP\Desktop\pratikler\sinifKavrami\bin\Debug\net6.0\sinifKavrami.pdb
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.dll
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\ref\sinifKavrami.dll
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.pdb
+C:\Users\HP\Desktop\pratikler\sinifKavrami\obj\Debug\net6.0\sinifKavrami.genruntimeconfig.cache
