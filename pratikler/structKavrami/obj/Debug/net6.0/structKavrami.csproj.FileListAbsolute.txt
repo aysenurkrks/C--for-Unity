@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\pratikler\structKavrami\bin\Debug\net6.0\structKavrami.exe
+C:\Users\HP\Desktop\pratikler\structKavrami\bin\Debug\net6.0\structKavrami.deps.json
+C:\Users\HP\Desktop\pratikler\structKavrami\bin\Debug\net6.0\structKavrami.runtimeconfig.json
+C:\Users\HP\Desktop\pratikler\structKavrami\bin\Debug\net6.0\structKavrami.dll
+C:\Users\HP\Desktop\pratikler\structKavrami\bin\Debug\net6.0\ref\structKavrami.dll
+C:\Users\HP\Desktop\pratikler\structKavrami\bin\Debug\net6.0\structKavrami.pdb
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.AssemblyInfo.cs
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.dll
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\ref\structKavrami.dll
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.pdb
+C:\Users\HP\Desktop\pratikler\structKavrami\obj\Debug\net6.0\structKavrami.genruntimeconfig.cache
